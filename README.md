@@ -1,7 +1,7 @@
 # CSCI39548
 Practical Web Dev Fall 2021
 
-## Class 1 (We 8/25)
+## Class 1
 - Course logistics, join Slack
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [GitHub Pages Tutorial](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)

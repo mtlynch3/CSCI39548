@@ -12,3 +12,5 @@ Practical Web Dev Fall 2021
 - [Video: Git Tutorial 1](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
 - [Video: Git Tutorial 2](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 - [Simple git visual](http://rogerdudler.github.io/git-guide/)
+
+## Class 2

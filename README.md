@@ -5,7 +5,6 @@ Practical Web Dev Fall 2021
 - Course logistics, join Slack
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [Connecting to GitHub via SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
-- [GitHub Pages Tutorial](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 **Supplemental materials**

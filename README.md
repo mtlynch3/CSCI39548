@@ -29,6 +29,7 @@ Practical Web Dev Fall 2021
 
 **Resources:**
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+- [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
 
 **Watch for next class:**
 - [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)

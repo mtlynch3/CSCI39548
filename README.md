@@ -36,15 +36,19 @@ Practical Web Dev Fall 2021
 - [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
+
+## Class 4 (01: 9/23; 02: 9/27, 9/29)
+### [**Assignment #2**](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
+- [Template for functions](https://gist.github.com/mtlynch3/052aade2ba7e913b45bb740c7d2f505b)
+
+**DOM**
+- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 **Supplemental materials:**
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
-## Class 4 (01: 9/23; 02: 9/27, 9/29)
-### Assignment 2
-
-**DOM**
 
 ## Class 5 (01: 9/30; 02: 10/4, 10/6)
 ### Assignment 3

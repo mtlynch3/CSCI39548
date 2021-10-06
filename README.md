@@ -59,24 +59,78 @@ Practical Web Dev Fall 2021
 - [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
 ## Class 6 (01: 10/7; 02: 10/13, 10/18)
-**REACT**
+**React:**
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+
+*Extra practice:*
+- [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
+- [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
+
+*Supplemental materials:*
+- [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
+
+**Required: watch for next class**
+- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ## Class 7 (01: 10/14; 02: 10/20, 10/25)
-**REACT and APIs**
+**Asynchronous programming, React and APIs:**
+- [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
+- [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
+
+*Chrome extensions used in class:*
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+*Supplemental materials:*
+- [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+- [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+- [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Axios tutorial](http://zetcode.com/javascript/axios/)
+- [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
+- [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
 
 ## Class 8 (01: 10/21; 02: 10/27, 11/1)
+**React-Router:**
+- React-Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
+
 ### Assignment 4
 
-**REACT ROUTER**
+*Recommended materials for next class:*
+- Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
+- [Article](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60) on thunks in Redux
+- [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ## Class 9 (01: 10/28; 02: 11/3, 11/8)
 **REDUX and INTRO FINAL PROJECT**
+- Managing state in React applications with Redux
+- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
+- Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
+- [Redux demo](https://github.com/mtlynch3/astro-redux)
 
 ## Class 10 (01: 11/4; 02: 11/10, 11/15)
 **REDUX and INTRO FINAL PROJECT**
 
 ## Class 11 (01: 11/11; 02: 11/17, 11/22)
 **Building backend application using Express and Sequelize**
+- RESTful APIs ([slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view))
+- ExpressJS ([slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view))
+- Intro to ORMs ([slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view))
+
+*Supplemental materials:*
+- [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+- [Slides on databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view)
+- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
+- [Sequelize documentation](https://sequelize.org/master/)
+
+*Resources:*
+- [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
+- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
 
 ## Class 12 (01: 11/18; 02: 11/24, 11/29)
 **Building backend application using Express and Sequelize**

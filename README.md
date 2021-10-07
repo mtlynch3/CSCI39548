@@ -63,7 +63,7 @@ Practical Web Dev Fall 2021
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 *Extra practice:*
-- [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
+- [React tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
 - [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
 
 *Supplemental materials:*

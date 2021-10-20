@@ -75,6 +75,7 @@ Practical Web Dev Fall 2021
 
 ## Class 7 (01: 10/14; 02: 10/20, 10/25)
 **Asynchronous programming, React and APIs:**
+- [React Examples](https://github.com/mtlynch3/react-examples)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
 

@@ -98,7 +98,7 @@ Practical Web Dev Fall 2021
 **React-Router:**
 - React-Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
 
-### Assignment 4
+### [Assignment 4](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 
 *Recommended materials for next class:*
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))

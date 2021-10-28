@@ -106,7 +106,7 @@ Practical Web Dev Fall 2021
 - [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ## Class 9 (01: 10/28; 02: 11/3, 11/8)
-**REDUX and INTRO FINAL PROJECT**
+**REDUX**
 - Managing state in React applications with Redux
 - Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))

@@ -110,7 +110,7 @@ Practical Web Dev Fall 2021
 - Managing state in React applications with Redux
 - Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
-- [Redux demo](https://github.com/mtlynch3/astro-redux)
+- [Redux demo](https://github.com/mtlynch3/react-examples)
 
 ## Class 10 (01: 11/4; 02: 11/10, 11/15)
 **REDUX and INTRO FINAL PROJECT**

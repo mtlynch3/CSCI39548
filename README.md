@@ -114,6 +114,10 @@ Practical Web Dev Fall 2021
 
 ## Class 10 (01: 11/4; 02: 11/10, 11/15)
 **REDUX and INTRO FINAL PROJECT**
+- [Final project doc](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit#)
+- [What's a CRUD app?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
+- [Starter code for client app](https://github.com/mtlynch3/starter-client/)
+- [Starter code for server app](https://github.com/mtlynch3/starter-server/)
 
 ## Class 11 (01: 11/11; 02: 11/17, 11/22)
 **Building backend application using Express and Sequelize**

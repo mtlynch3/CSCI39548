@@ -141,7 +141,9 @@ Practical Web Dev Fall 2021
 **Building backend application using Express and Sequelize**
 
 ## Class 13 (01: 12/2; 02: 12/1, 12/6)
+**Review for exit assessment**
 **Work on Final Project**
 
 ## Class 14 (01: 12/9; 02: 12/8, 12/13)
+**Exit assessment**
 **Work on Final Project**

@@ -147,5 +147,9 @@ Practical Web Dev Fall 2021
 
 ## Class 14 (01: 12/9; 02: 12/8, 12/13)
 **Exit assessment**
+- Section 01: 12/9 
+- Section 02: 12/8
 
 **Work on Final Project**
+- [Final project doc](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit#)
+- Due Monday Dec 20

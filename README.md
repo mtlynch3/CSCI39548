@@ -15,8 +15,8 @@ Practical Web Dev Spring 2022
 - [Simple git visual](http://rogerdudler.github.io/git-guide/)
 - *Video tutorials:* 
   [[1]](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
-  [2](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
-  [3](https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim)
+  [[2]](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
+  [[3]](https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim)
 
 **HTML and CSS**
 - [Sample repo for a basic website](https://github.com/mtlynch3/a_website)

@@ -24,4 +24,15 @@ Practical Web Dev Spring 2022
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
+## Class 2 (2/9)
+
+- Review git, GitHub, feature branch workflow, HTML, CSS
+
+### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+
+**READ FOR NEXT CLASS**
+- [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+- [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+
 

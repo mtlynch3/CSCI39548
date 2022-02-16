@@ -30,9 +30,20 @@ Practical Web Dev Spring 2022
 
 ### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
-**READ FOR NEXT CLASS**
+## Class 3 (2/16)
+
+**JavaScript:**
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+
+**Resources:**
+- [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+- [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
+
+**Watch for next class:**
+- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
 

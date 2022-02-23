@@ -56,5 +56,6 @@ Practical Web Dev Spring 2022
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
 

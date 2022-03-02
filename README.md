@@ -58,4 +58,12 @@ Practical Web Dev Spring 2022
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 - [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
+## Class 5 (3/2)
+
+### [Assignment 2](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
+- [Starter code](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
+
+**For next class: required videos (watch all in the series)**
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+
 

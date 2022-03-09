@@ -74,7 +74,4 @@ Practical Web Dev Spring 2022
 - [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
-**Required: watch for next class**
-- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
-
 

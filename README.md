@@ -71,7 +71,7 @@ Practical Web Dev Spring 2022
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 *Supplemental materials:*
-- [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+- [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) NOTE: this video uses React hooks. We will not cover hooks in class but you are allowed to use them in your assignments. More on hooks [here](https://reactjs.org/docs/hooks-intro.html).
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
 

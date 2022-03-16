@@ -77,8 +77,8 @@ Practical Web Dev Spring 2022
 ## Class 7 (3/16)
 
 **React continued**
-- Cover sections 5-8 of the React docs
-- Should read 9-12 for next class
+- Cover sections 5-7 of the React docs
+- Should read 8-12 for next class
 
 **Required: watch for next class**
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)

@@ -83,3 +83,35 @@ Practical Web Dev Spring 2022
 **Required: watch for next class**
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
+## Class 8 (3/23)
+
+- React examples and in-class exercise
+- Go over async example from video
+
+## Class 9 (3/30)
+
+- Using API data with React
+- Assignment 3
+
+## Class 10 (4/6)
+
+- Redux
+- Intro final project
+
+## Class 11 (4/13)
+
+- React Router
+- Assignment 4
+
+## Class 12 (4/27)
+
+- Set up Express server and Postgres database
+
+## Class 13 (5/4)
+
+- continue to build out backend 
+
+## Class 14 (5/11)
+
+- exit assessment 
+

@@ -87,6 +87,7 @@ Practical Web Dev Spring 2022
 
 - React examples and in-class exercise
 - Go over async example from video
+- [React app on GH Pages](https://github.com/gitname/react-gh-pages)
 
 ## Class 9 (3/30)
 

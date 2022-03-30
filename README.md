@@ -91,10 +91,7 @@ Practical Web Dev Spring 2022
 
 ## Class 9 (3/30)
 
-- Using API data with React
-
 **Asynchronous programming, React and APIs:**
-- [React Examples](https://github.com/mtlynch3/react-examples)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
 

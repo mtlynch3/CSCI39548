@@ -85,14 +85,34 @@ Practical Web Dev Spring 2022
 
 ## Class 8 (3/23)
 
-- React examples and in-class exercise
+- React examples and [in-class exercise](https://github.com/mtlynch3/class8)
 - Go over async example from video
 - [React app on GH Pages](https://github.com/gitname/react-gh-pages)
 
 ## Class 9 (3/30)
 
 - Using API data with React
-- Assignment 3
+
+**Asynchronous programming, React and APIs:**
+- [React Examples](https://github.com/mtlynch3/react-examples)
+- [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
+- [Demo: fetching data from an API and displaying the results using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
+
+*Chrome extensions used in class:*
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+*Supplemental materials:*
+- [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+- [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+- [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Axios tutorial](http://zetcode.com/javascript/axios/)
+- [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
+- [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+### [Assignment 3](https://docs.google.com/document/d/1VAFd-4OCtPlvpKIHrliGNyl4ksouJIjo398Uvb2SaoA/edit?usp=sharing)
 
 ## Class 10 (4/6)
 

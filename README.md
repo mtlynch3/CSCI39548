@@ -119,7 +119,7 @@ Practical Web Dev Spring 2022
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
 - [Redux demo](https://github.com/mtlynch3/react-examples)
 
-*for next class: [What's a CRUD app?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)*
+*for next class: [CRUD](https://www.codecademy.com/article/what-is-crud)*
 
 
 ## Class 11 (4/13)

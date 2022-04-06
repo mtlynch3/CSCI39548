@@ -113,17 +113,23 @@ Practical Web Dev Spring 2022
 
 ## Class 10 (4/6)
 
-- Redux
-- Intro final project
+**REDUX**
+- Managing state in React applications with Redux
+- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
+- Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
+- [Redux demo](https://github.com/mtlynch3/react-examples)
+
+*for next class: [What's a CRUD app?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)*
+
 
 ## Class 11 (4/13)
 
-- React Router
-- Assignment 4
+- Intro Final project
+- React Router/Assignment 4
 
 ## Class 12 (4/27)
 
-- Set up Express server and Postgres database
+- Set up Express server and Postgres database for final project
 
 ## Class 13 (5/4)
 
@@ -131,5 +137,8 @@ Practical Web Dev Spring 2022
 
 ## Class 14 (5/11)
 
-- exit assessment 
+- work on final project
+
+**NOTE: exit assessment will be online. It will be available on Blackboard from 5/12 - 5/15 but you will only have one hour to complete it once you begin. 
+It will be 20 multiple choice questions.**
 

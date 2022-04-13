@@ -124,8 +124,8 @@ Practical Web Dev Spring 2022
 
 ## Class 11 (4/13)
 
-- Intro Final project
-- React Router/Assignment 4
+- Intro Final project: [Documentation](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+- Intro React Router: [Installation](https://reactrouter.com/docs/en/v6/getting-started/installation)
 
 ## Class 12 (4/27)
 

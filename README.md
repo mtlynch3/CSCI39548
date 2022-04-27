@@ -137,8 +137,7 @@ Practical Web Dev Spring 2022
 - ExpressJS ([slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view))
 - Intro to ORMs ([slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view))
 
-**CRUD EXAMPLE:**
-- [Frontend](https://github.com/mtlynch3/starter-client)
+**BACKEND EXAMPLE:**
 - [Backend](https://github.com/mtlynch3/starter-server)
 
 *Supplemental materials:*

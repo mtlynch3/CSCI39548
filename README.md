@@ -129,7 +129,25 @@ Practical Web Dev Spring 2022
 
 ## Class 12 (4/27)
 
-- Set up Express server and Postgres database for final project
+### [Assignment 4](https://docs.google.com/document/d/10HrSm9dDzaZqCRC_Qtr_XcG9egMv8MeDwb6EJ2w9iYs/edit?usp=sharing)
+
+**Building backend application using Express and Sequelize**
+- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
+- RESTful APIs ([slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view))
+- ExpressJS ([slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view))
+- Intro to ORMs ([slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view))
+
+**CRUD EXAMPLE:**
+- [Frontend](https://github.com/mtlynch3/starter-client)
+- [Backend](https://github.com/mtlynch3/starter-server)
+
+*Supplemental materials:*
+- [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+- [Slides on databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view)
+- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
+- [Sequelize documentation](https://sequelize.org/master/)
 
 ## Class 13 (5/4)
 

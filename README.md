@@ -154,7 +154,9 @@ Practical Web Dev Spring 2022
 
 ## Class 14 (5/11)
 
-- work on final project
+### Final Project
+- [Documentation](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+- Due Monday May 23 at 11:59 PM
 
 **NOTE: exit assessment will be online. It will be available on Blackboard from 5/12 - 5/15 but you will only have one hour to complete it once you begin. 
 It will be 20 multiple choice questions.**

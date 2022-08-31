@@ -25,5 +25,3 @@ Practical Web Dev Fall 2022
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 
-HELLO
-

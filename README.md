@@ -25,3 +25,8 @@ Practical Web Dev Fall 2022
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 hello
+
+## Class 2 (9/7)
+
+- Review git, GitHub, feature branch workflow, HTML, CSS
+- [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)

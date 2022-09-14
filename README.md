@@ -29,8 +29,9 @@ Practical Web Dev Fall 2022
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
 ## Class 3 (9/14)
-### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+
+### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
 **Read for next class**
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)

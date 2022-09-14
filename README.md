@@ -24,9 +24,16 @@ Practical Web Dev Fall 2022
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
-hello
-
 ## Class 2 (9/7)
-
 - Review git, GitHub, feature branch workflow, HTML, CSS
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+
+## Class 3 (9/14)
+### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+- [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+
+**Read for next class**
+- [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+
+**Supplemental materials**
+- [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)

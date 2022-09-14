@@ -38,3 +38,6 @@ Practical Web Dev Fall 2022
 
 **Supplemental materials**
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
+
+## Class 4
+- Quiz on material from classes 1 to 3

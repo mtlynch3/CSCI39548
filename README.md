@@ -30,6 +30,7 @@ Practical Web Dev Fall 2022
 
 ## Class 3 (9/14)
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
+- [Review of class 1 and 2 material](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing)
 
 ### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 

@@ -42,3 +42,17 @@ Practical Web Dev Fall 2022
 
 ## Class 4
 - Quiz on material from classes 1 to 3
+
+**DOM:**
+- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
+
+**Supplemental materials:**
+- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
+- [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
+- [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+- [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+

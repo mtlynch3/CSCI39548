@@ -40,7 +40,7 @@ Practical Web Dev Fall 2022
 **Supplemental materials**
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
 
-## Class 4
+## Class 4 (9/21)
 - Quiz on material from classes 1 to 3
 
 **DOM:**
@@ -49,10 +49,22 @@ Practical Web Dev Fall 2022
 
 **Supplemental materials:**
 - [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
-- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
+- [Video: Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [Video: DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
-- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+- [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
+
+## Class 5 (9/28)
+- [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+
+**No class 10/5**
+
+## Class 6 (10/12)
+- Quiz on JavaScript, DOM
+- React
+
 

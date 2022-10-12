@@ -64,7 +64,19 @@ Practical Web Dev Fall 2022
 **No class 10/5**
 
 ## Class 6 (10/12)
-- Quiz on JavaScript, DOM
-- React
+**Into to React:**
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
+**For next class: required videos (watch all in the series)**
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
+*Supplemental materials:*
+- [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) NOTE: this video uses React hooks. We will not cover hooks in class but you are allowed to use them in your assignments. More on hooks [here](https://reactjs.org/docs/hooks-intro.html).
+- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
+
+## Class 7 (10/19)
+- Continue React
+- Assignment 2
+
+## Class 8 (10/26)
+- Async JS, working with API data

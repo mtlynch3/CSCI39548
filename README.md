@@ -64,6 +64,8 @@ Practical Web Dev Fall 2022
 **No class 10/5**
 
 ## Class 6 (10/12)
+- Quiz on material from classes 4 and 5 (JavaScript, DOM)
+
 **Into to React:**
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 

@@ -77,10 +77,11 @@ Practical Web Dev Fall 2022
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
 ## Class 7 (10/19)
-- Continue React
-- Assignment 2
+- Continue React Docs
+- Assignment 2: Memory (Card Game) [example](https://www.helpfulgames.com/subjects/brain-training/memory.html)
+- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Class 8 (10/26)
 - Async JS, working with API data
-- Work on Assignment 2
+- Work on Assignment 2; official documentation and due date will be announced during class
 - Quiz on React

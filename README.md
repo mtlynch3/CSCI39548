@@ -82,3 +82,5 @@ Practical Web Dev Fall 2022
 
 ## Class 8 (10/26)
 - Async JS, working with API data
+- Work on Assignment 2
+- Quiz on React

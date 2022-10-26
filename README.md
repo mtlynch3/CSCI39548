@@ -79,7 +79,7 @@ Practical Web Dev Fall 2022
 ## Class 7 (10/19)
 - Continue React Docs 
 - Assignment 2: Memory (Card Game) [example](https://www.helpfulgames.com/subjects/brain-training/memory.html)
-- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Guide to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Section](https://eloquentjavascript.net/06_object.html#p_DKj01h8Gzf) on the `this` keyword (from Eloquent JavaScript Ch 6)
 - [Cards example](https://gist.github.com/mtlynch3/d03dfbb3e2c14f3a7699e4102aeb1495)
 

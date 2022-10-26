@@ -83,7 +83,7 @@ Practical Web Dev Fall 2022
 - [Section](https://eloquentjavascript.net/06_object.html#p_DKj01h8Gzf) on the `this` keyword (from Eloquent JavaScript Ch 6)
 - [Cards example](https://gist.github.com/mtlynch3/d03dfbb3e2c14f3a7699e4102aeb1495)
 
-###[Assignment 2](https://docs.google.com/document/d/1Y7_bxGlXh2bFuS2PY4bw4MUGE0FIQZXxBjOUdVfbJi4/edit?usp=sharing)
+### [Assignment 2](https://docs.google.com/document/d/1Y7_bxGlXh2bFuS2PY4bw4MUGE0FIQZXxBjOUdVfbJi4/edit?usp=sharing)
 
 ## Class 8 (10/26)
 - [React examples](https://github.com/mtlynch3/class8)

@@ -104,3 +104,14 @@ Practical Web Dev Fall 2022
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
 
+## Class 9 (11/2)
+- Continue working with API data in React components
+- Introduce Redux for handling async actions and managing app state
+- [In-class examples](https://github.com/mtlynch3/react-examples)
+- Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
+
+## Class 10 (11/9)
+- Quiz on React and using API data (will be an in-class review before the quiz)
+- Go through a fully built out CRUD client app using Redux and React-Router
+
+

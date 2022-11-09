@@ -111,7 +111,29 @@ Practical Web Dev Fall 2022
 - Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 
 ## Class 10 (11/9)
-- Quiz on React and using API data (will be an in-class review before the quiz)
-- Go through a fully built out CRUD client app using Redux and React-Router
+- [What is a CRUD app?](https://www.codecademy.com/article/what-is-crud)
+- CRUD example: [TubeText](https://github.com/mtlynch3/tube-text)
+- React Router: [repo](https://github.com/mtlynch3/router-example) for in-class exercise
+- More Redux, looking at the setup for [this repo](https://github.com/mtlynch3/final-frontend)
+- [Download](https://www.postgresql.org/download/) PostgreSQL for next class
+- QUIZ 4
+
+## Class 11 (11/16)
+- Building out our own API using Express/Sequelize/Postgres
+- Introduce final project doc
+
+## Class 12 (11/23)
+- Quiz 5
+- Assignment 3 released, due 12/8
+- Continue lecture on backend
+
+## Class 13 (11/30)
+- Work on assignments in class
+- Final lecture on backend if needed
+
+## Class 14 (12/7)
+- Last day of class
+- Quiz 6
+- Work on assignments in class
 
 

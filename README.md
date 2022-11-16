@@ -122,17 +122,30 @@ Practical Web Dev Fall 2022
 - [Article on thunks](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 
 ## Class 11 (11/16)
-- Building out our own API using Express/Sequelize/Postgres
-- Introduce final project doc
+- Building out our own API using Express
+- Performing database CRUD operations using Sequelize/Postgres
+- REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
+- Databases and ORMs [slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view)
+
+- In class example: [repo](https://github.com/mtlynch3/final-backend)
+
+*Supplemental materials:*
+- [Sequelize documentation](https://sequelize.org/master/)
+- [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+
+### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+- Due 12/21 at 11:59 PM
 
 ## Class 12 (11/23)
 - Quiz 5
 - Assignment 3 released, due 12/8
-- Continue lecture on backend
+- Continue lecture on backend, go through final project implementation details 
 
 ## Class 13 (11/30)
 - Work on assignments in class
-- Final lecture on backend if needed
+- Final lecture on any topics that need to be clarified
 
 ## Class 14 (12/7)
 - Last day of class

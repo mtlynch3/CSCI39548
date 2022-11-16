@@ -117,6 +117,7 @@ Practical Web Dev Fall 2022
 - More Redux, looking at the setup for [this repo](https://github.com/mtlynch3/final-frontend)
 - [Download](https://www.postgresql.org/download/) PostgreSQL for next class
 - Quiz 4
+
 *Supplemental materials:*
 - [Redux course](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 - [Article on thunks](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)

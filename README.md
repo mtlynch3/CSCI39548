@@ -116,7 +116,10 @@ Practical Web Dev Fall 2022
 - React Router: [repo](https://github.com/mtlynch3/router-example) for in-class exercise
 - More Redux, looking at the setup for [this repo](https://github.com/mtlynch3/final-frontend)
 - [Download](https://www.postgresql.org/download/) PostgreSQL for next class
-- QUIZ 4
+- Quiz 4
+*Supplemental materials:*
+- [Redux course](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
+- [Article on thunks](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 
 ## Class 11 (11/16)
 - Building out our own API using Express/Sequelize/Postgres

@@ -141,8 +141,10 @@ Practical Web Dev Fall 2022
 
 ## Class 12 (11/23)
 - Quiz 5
-- Assignment 3 released, due 12/8
-- Continue lecture on backend, go through final project implementation details 
+- Continue lecture on backend, go through final project implementation details
+
+### [Assignment 3](https://docs.google.com/document/d/1KO41PPwGuOw3tdXCtCvIoAzqquxWqqPuGfHtEdmOSv4/edit?usp=sharing)
+- Due 12/8 at 11:59 PM
 
 ## Class 13 (11/30)
 - Work on assignments in class

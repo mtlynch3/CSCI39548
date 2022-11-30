@@ -149,6 +149,7 @@ Practical Web Dev Fall 2022
 ## Class 13 (11/30)
 - Work on assignments in class
 - Final lecture on any topics that need to be clarified
+- Example repos: [frontend](https://github.com/mtlynch3/final-frontend) [backend](https://github.com/mtlynch3/final-backend)
 
 ## Class 14 (12/7)
 - Last day of class

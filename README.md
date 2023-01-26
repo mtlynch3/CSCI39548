@@ -11,12 +11,12 @@ Practical Web Dev Spring 2023
 
 **Supplemental materials**
 
-**Git and GitHub**
+Git and GitHub
 - [Git Textbook](https://git-scm.com/book/en/v2)
 - [Simple git visual](https://rogerdudler.github.io/git-guide/)
 - [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh)
 
-- *Video tutorials:* 
+Video tutorials:
   [[1]](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
   [[2]](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
   [[3]](https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim)

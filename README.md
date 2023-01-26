@@ -21,7 +21,7 @@ Video tutorials:
   [[2]](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
   [[3]](https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim)
 
-**HTML and CSS**
+HTML and CSS
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 

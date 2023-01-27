@@ -1,6 +1,8 @@
 # CSCI39548
 Practical Web Dev Spring 2023
 
+### HERE IS A CHANGE
+
 ## Class 1 (1/26)
 - Course logistics, review syllabus
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)

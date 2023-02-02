@@ -1,15 +1,12 @@
 # CSCI39548
 Practical Web Dev Spring 2023
 
-### HERE IS A CHANGE
-
 ## Class 1 (1/26)
 - Course logistics, review syllabus
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [Connecting to GitHub via SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
 - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - [Git notes](https://docs.google.com/document/d/1IiKHX0lIk7n_AlNIttbD1d1ICukPVodbYmWj0IaCSPE/edit?usp=sharing)
-- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
 
 **Supplemental materials**
 
@@ -29,6 +26,8 @@ HTML and CSS
 
 ## Class 2 (2/2)
 - Review git, GitHub, feature branch workflow, HTML, CSS
+- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
+
 ### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
 

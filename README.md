@@ -41,11 +41,11 @@ HTML and CSS
 
 ## Class 4 (2/16)
 **DOM:**
-- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
 
 **Supplemental materials:**
-- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Video: Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 - [Video: Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [Video: DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)

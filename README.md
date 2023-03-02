@@ -60,13 +60,17 @@ HTML and CSS
 
 ## Class 6 (3/2)
 **Into to React:**
-- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
+- [React Docs: Quick start](https://beta.reactjs.org/learn)
+- [Dynamic styling with useState()](https://gist.github.com/mtlynch3/c5500294f7b176dbf7951328599df68f)
 
-**For next class: required videos (watch all in the series)**
-- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+**For next class:**
+- [Your First Component](https://beta.reactjs.org/learn/your-first-component)
+- [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
 
 *Supplemental materials:*
-- [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) NOTE: this video uses React hooks. We will not cover hooks in class but you are allowed to use them in your assignments. More on hooks [here](https://reactjs.org/docs/hooks-intro.html).
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+- [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
 ## Class 7 (3/9)

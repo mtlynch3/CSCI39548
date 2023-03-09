@@ -64,30 +64,29 @@ HTML and CSS
 - [React Docs: Quick start](https://beta.reactjs.org/learn)
 - [Dynamic styling with useState()](https://gist.github.com/mtlynch3/c5500294f7b176dbf7951328599df68f)
 
-**For next class:**
-- [Your First Component](https://beta.reactjs.org/learn/your-first-component)
-- [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
-
 *Supplemental materials:*
 - [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
 ## Class 7 (3/9)
-- Continue React Docs, React-Router
+- [Your First Component](https://beta.reactjs.org/learn/your-first-component)
+- [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
+- [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)
+- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 
+** Watch for next class: **
+- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ## Class 8 (3/16)
+- React Router
+- What is a [single-page application (SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 - Async JS, working with API data
-
-*Recommended materials:*
-- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
 *Supplemental materials:*
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 - [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
-- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 - [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Axios tutorial](http://zetcode.com/javascript/axios/)

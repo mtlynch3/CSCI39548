@@ -75,7 +75,7 @@ HTML and CSS
 - [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)
 - [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 
-** Watch for next class: **
+**Watch for next class:**
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ## Class 8 (3/16)

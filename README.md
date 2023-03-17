@@ -30,7 +30,6 @@ HTML and CSS
 
 ### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
-
 ## Class 3 (2/9)
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
@@ -79,7 +78,7 @@ HTML and CSS
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ## Class 8 (3/16)
-- React Router
+- [React Router](https://gist.github.com/mtlynch3/1b6b8d05032550465aa66bc0fa5da89e)
 - What is a [single-page application (SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 - Async JS, working with API data
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)

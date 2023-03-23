@@ -94,6 +94,8 @@ HTML and CSS
 ## Class 9 (3/23)
 - Continue working with API data in React components
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Class components](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+- [Example of component that displays data from an API](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
 
 
 ## Class 10 (3/30)

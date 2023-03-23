@@ -95,7 +95,7 @@ HTML and CSS
 - Continue working with API data in React components
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Class components](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
-- [Example of component that displays data from an API](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+- [Example of component that displays data from an API](https://github.com/mtlynch3/react-examples/blob/main/src/components/ApiDataComponent.js)
 
 
 ## Class 10 (3/30)

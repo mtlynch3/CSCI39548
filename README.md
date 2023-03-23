@@ -93,16 +93,26 @@ HTML and CSS
 
 ## Class 9 (3/23)
 - Continue working with API data in React components
-- Introduce Redux for handling async actions and managing app state
-- [In-class examples](https://github.com/mtlynch3/react-examples)
-- Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+
 
 ## Class 10 (3/30)
-- Midterm and intro final project
+- 5:30 to 6:15 => midterm review in class (going over study guide)
+- 6:15 to 8:15 => take midterm exam
+- Will be a paper exam, 30 multiple choice questions
+- Exam questions are based on the given study guide
 
-### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
 ## Class 11 (4/20)
+- Redux for handling async actions and managing app state
+- [In-class examples](https://github.com/mtlynch3/react-examples)
+- Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
+- Intro final project
+### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+
+
+
+## Class 12 (4/27)
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
 - REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
@@ -113,10 +123,6 @@ HTML and CSS
 - [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
 - [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 - [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
-
-
-## Class 12 (4/27)
-- Continue lecture on backend
 
 ## Class 13 (5/4)
 - Work on final project

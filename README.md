@@ -97,7 +97,7 @@ HTML and CSS
 - [Class components](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
 - [Example of component that displays data from an API](https://github.com/mtlynch3/react-examples/blob/main/src/components/ApiDataComponent.js)
 
-### [STUDY GUIDE FOR MIDTERM](https://docs.google.com/document/d/1UW7Q236K56WgrlUrrMcpB9MLfLsC9QlRkOjCnoiyWWk/edit)
+### [STUDY GUIDE FOR MIDTERM](https://docs.google.com/document/d/1UW7Q236K56WgrlUrrMcpB9MLfLsC9QlRkOjCnoiyWWk/edit?usp=sharing)
 
 ## Class 10 (3/30)
 - 5:30 to 6:15 => midterm review in class (going over study guide)

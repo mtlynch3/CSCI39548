@@ -105,6 +105,7 @@ HTML and CSS
 - Will be a paper exam, 30 multiple choice questions
 - Exam questions are based on the given study guide
 
+### [MIDTERM ANSWER KEY](https://gist.github.com/mtlynch3/c6a7c85faae2fa1b7fde4b3708b2a9f0)
 
 ## Class 11 (4/20)
 - Redux for handling async actions and managing app state

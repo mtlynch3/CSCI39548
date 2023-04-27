@@ -114,13 +114,14 @@ HTML and CSS
 - Intro final project
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
-
-
 ## Class 12 (4/27)
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
 - REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
 - Databases and ORMs [slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view)
+- Download [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
+- Example repos: [frontend](https://github.com/mtlynch3/final-frontend) [backend](https://github.com/mtlynch3/final-backend)
+
 
 *Supplemental materials:*
 - [Sequelize documentation](https://sequelize.org/master/)
@@ -131,7 +132,7 @@ HTML and CSS
 ## Class 13 (5/4)
 - Work on final project
 - Lecture on any topics that need to be clarified
-- Example repos: [frontend](https://github.com/mtlynch3/final-frontend) [backend](https://github.com/mtlynch3/final-backend)
+- Example repos for employees/tasks (using Hooks instead of class components in the client) will be linked here. We will spend the last two classes going through it. 
 
 ## Class 14 (5/11)
 - Last day of class

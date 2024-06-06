@@ -1,7 +1,7 @@
 # CSCI39548
-Practical Web Dev Spring 2023
+Practical Web Dev Summer 2024
 
-## Class 1 (1/26)
+## Class 1 (5/28)
 - Course logistics, review syllabus
 - [Set up git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [Connecting to GitHub via SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
@@ -24,24 +24,29 @@ HTML and CSS
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
-## Class 2 (2/2)
+## Class 2 (5/30)
 - Review git, GitHub, feature branch workflow, HTML, CSS
-- [Sample repo for a basic website](https://github.com/mtlynch3/a_website)
+- [Sample repo for a basic website](https://github.com/mtlynch3/summer24)
 
 ### [Assignment 1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 
-## Class 3 (2/9)
+## Class 3 (6/4)
 - [Installing Node.js](https://nodejs.org/en/download/package-manager/)
-- [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
-- [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
 **Supplemental materials**
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
 
-## Class 4 (2/16)
+## Class 4 (6/6)
+- [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+- [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+
+
+## Class 5 (6/11 and 6/13)
 **DOM:**
 - [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
+- [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
 
 **Supplemental materials:**
 - [Video: Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
@@ -52,12 +57,8 @@ HTML and CSS
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 - [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
-## Class 5 (2/23)
-- [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
-- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
-- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
-## Class 6 (3/2)
+## Class 6 (6/18 and 6/20)
 **Into to React:**
 - [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
 - [React Docs: Quick start](https://beta.reactjs.org/learn)
@@ -68,7 +69,7 @@ HTML and CSS
 - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
-## Class 7 (3/9)
+## Class 7 ()
 - [Your First Component](https://beta.reactjs.org/learn/your-first-component)
 - [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
 - [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)
@@ -77,7 +78,7 @@ HTML and CSS
 **Watch for next class:**
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
-## Class 8 (3/16)
+## Class 8 ()
 - [React Router](https://gist.github.com/mtlynch3/1b6b8d05032550465aa66bc0fa5da89e)
 - What is a [single-page application (SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 - Async JS, working with API data
@@ -91,30 +92,26 @@ HTML and CSS
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
 
-## Class 9 (3/23)
+## Class 9 ()
 - Continue working with API data in React components
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Class components](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
 - [Example of component that displays data from an API](https://github.com/mtlynch3/react-examples/blob/main/src/components/ApiDataComponent.js)
 
-### [STUDY GUIDE FOR MIDTERM](https://docs.google.com/document/d/1UW7Q236K56WgrlUrrMcpB9MLfLsC9QlRkOjCnoiyWWk/edit?usp=sharing)
 
-## Class 10 (3/30)
-- 5:30 to 6:15 => midterm review in class (going over study guide)
-- 6:15 to 8:15 => take midterm exam
-- Will be a paper exam, 30 multiple choice questions
-- Exam questions are based on the given study guide
 
-### [MIDTERM ANSWER KEY](https://gist.github.com/mtlynch3/c6a7c85faae2fa1b7fde4b3708b2a9f0)
+## Class 10 ()
+- TBD
 
-## Class 11 (4/20)
+
+## Class 11 ()
 - Redux for handling async actions and managing app state
 - [In-class examples](https://github.com/mtlynch3/react-examples)
 - Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 - Intro final project
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
-## Class 12 (4/27)
+## Class 12 ()
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
 - REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
@@ -129,12 +126,12 @@ HTML and CSS
 - [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 - [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 
-## Class 13 (5/4)
+## Class 13 ()
 - Work on final project
 - Lecture on any topics that need to be clarified
 - Example repos for employees/tasks (using Hooks instead of class components in the client) will be linked here. We will spend the last two classes going through it. 
 
-## Class 14 (5/11)
+## Class 14 ()
 - Last day of class
 - Work on final project
 

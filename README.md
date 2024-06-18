@@ -42,11 +42,10 @@ HTML and CSS
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 
-## Class 5 (6/11 and 6/13)
+## Class 5 and 6 (6/11 and 6/13)
 **DOM:**
 - [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
-- [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
 
 **Supplemental materials:**
 - [Video: Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
@@ -58,7 +57,10 @@ HTML and CSS
 - [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
 
-## Class 6 (6/18 and 6/20)
+## Class 6 and 7(6/18 and 6/20)
+**Gridmaker**
+- [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
+  
 **Into to React:**
 - [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
 - [React Docs: Quick start](https://beta.reactjs.org/learn)
@@ -69,7 +71,7 @@ HTML and CSS
 - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 
-## Class 7 ()
+## Class 8 and 9 ()
 - [Your First Component](https://beta.reactjs.org/learn/your-first-component)
 - [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
 - [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)

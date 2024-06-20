@@ -59,28 +59,32 @@ HTML and CSS
 - [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
 
+### Work on Assignment 1 Part B
+
+
 ## Class 7 (6/18)
 **Gridmaker**
 - [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
-
-### Work on Assignment 1 Part B
+- Your version is due on Blackboard by Tuesday 6/25 at 5 PM
 
 ## Class 8 (6/20)
-**Into to React:**
-- [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
-- [React Docs: Quick start](https://beta.reactjs.org/learn)
-- [Dynamic styling with useState()](https://gist.github.com/mtlynch3/c5500294f7b176dbf7951328599df68f)
-
-*Supplemental materials:*
-- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
-- [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
-- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
+**Intro to React:**
+- [Getting started](https://react.dev/learn)
 
 ## Class 8 and 9 ()
 - [Your First Component](https://beta.reactjs.org/learn/your-first-component)
 - [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
 - [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)
 - [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+
+  
+*Supplemental materials:*
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+- [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
+- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
+- [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
+- [Dynamic styling with useState()](https://gist.github.com/mtlynch3/c5500294f7b176dbf7951328599df68f)
+
 
 **Watch for next class:**
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)

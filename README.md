@@ -39,16 +39,14 @@ HTML and CSS
 ## Class 4 (6/6)
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
-- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 
-## Class 5 and 6 (6/11 and 6/13)
+## Class 5(6/11)
 **DOM:**
-- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-- [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+- [Video: Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 
 **Supplemental materials:**
-- [Video: Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 - [Video: Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [Video: DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
@@ -57,10 +55,17 @@ HTML and CSS
 - [CSS Selector Syntax](https://www.w3schools.com/cssref/css_selectors.asp)
 
 
-## Class 6 and 7(6/18 and 6/20)
+## Class 6 (6/13)
+- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [DOM Example](https://gist.github.com/mtlynch3/3af5f8dd1a800a3167f8c3a3b9d36bec)
+
+## Class 7 (6/18)
 **Gridmaker**
 - [Gridmaker](https://gist.github.com/mtlynch3/5f1f86199a3ddb12d137f9d2fe8d1900)
-  
+
+### Work on Assignment 1 Part B
+
+## Class 8 (6/20)
 **Into to React:**
 - [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
 - [React Docs: Quick start](https://beta.reactjs.org/learn)

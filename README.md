@@ -40,7 +40,6 @@ HTML and CSS
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
-
 ## Class 5(6/11)
 **DOM:**
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
@@ -69,31 +68,28 @@ HTML and CSS
 
 ## Class 8 (6/20)
 **Intro to React:**
-- [Getting started](https://react.dev/learn)
+- [Quick Start](https://react.dev/learn)
 
-## Class 8 and 9 ()
-- [Your First Component](https://beta.reactjs.org/learn/your-first-component)
-- [Passing Props to a Component](https://beta.reactjs.org/learn/passing-props-to-a-component)
-- [Tic-Tac-Toe](https://beta.reactjs.org/learn/tutorial-tic-tac-toe)
-- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+## Class 9 (6/25)
+- Continue with React intro docs from last week
+- [Running your React app locally - getting started with Vite](https://vitejs.dev/guide/)
+
+## Class 10 (6/27)
+- [Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+- [Thinking in React](https://react.dev/learn/thinking-in-react)
+
+## Class 11 (7/2)
+**Advanced topics in React**
+- [Describing the UI](https://react.dev/learn/describing-the-ui)
+- [Adding interactivity](https://react.dev/learn/adding-interactivity)
+- [Managing state](https://react.dev/learn/managing-state)
+- [Escape hatches](https://react.dev/learn/escape-hatches)
 
   
-*Supplemental materials:*
-- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
-- [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
-- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
-- [React Docs: Main Concepts sections 1-4](https://reactjs.org/docs/hello-world.html)
-- [Dynamic styling with useState()](https://gist.github.com/mtlynch3/c5500294f7b176dbf7951328599df68f)
-
-
-**Watch for next class:**
-- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
-
-## Class 8 ()
-- [React Router](https://gist.github.com/mtlynch3/1b6b8d05032550465aa66bc0fa5da89e)
-- What is a [single-page application (SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
+## Class 12 ()
 - Async JS, working with API data
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
+- [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 *Supplemental materials:*
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
@@ -102,13 +98,6 @@ HTML and CSS
 - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
-
-## Class 9 ()
-- Continue working with API data in React components
-- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
-- [Class components](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
-- [Example of component that displays data from an API](https://github.com/mtlynch3/react-examples/blob/main/src/components/ApiDataComponent.js)
-
 
 
 ## Class 10 ()

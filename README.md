@@ -86,7 +86,7 @@ HTML and CSS
 - [Escape hatches](https://react.dev/learn/escape-hatches)
 
   
-## Class 12 ()
+## Class 12 (7/11)
 - Async JS, working with API data
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)

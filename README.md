@@ -103,7 +103,7 @@ HTML and CSS
 ## Class 13 (7/16)
 - Finish lecture on async JavaScript
 - Using API data in your React components - [example](https://gist.github.com/mtlynch3/17862eaf81692217de8e3ebfba06368d)
-- [](https://jsonplaceholder.typicode.com/)
+- [JSON PLACEHOLDER](https://jsonplaceholder.typicode.com/)
 
 
 ## Class 14 (7/18)

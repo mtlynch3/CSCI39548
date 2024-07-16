@@ -100,14 +100,13 @@ HTML and CSS
 - [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
 
 
-## Class 10 ()
-- TBD
+## Class 13 (7/16)
+- Finish lecture on async JavaScript
+- Using API data in your React components
 
 
-## Class 11 ()
+## Class 14 (7/18)
 - Redux for handling async actions and managing app state
-- [In-class examples](https://github.com/mtlynch3/react-examples)
-- Redux slides [1](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view) [2](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view)
 - Intro final project
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 

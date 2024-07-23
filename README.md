@@ -115,7 +115,15 @@ HTML and CSS
 - Intro final project
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
-## Class 12 ()
+## Class 16 (7/25)
+## Class 17 (7/30)
+## Class 18 (8/1)
+## Class 19 (8/6)
+## Class 20 (8/8)
+## Class 21 (8/13)
+## Class 21 (8/15)
+
+
 - Building out our own API using Express
 - Performing database CRUD operations using Sequelize/Postgres
 - REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
@@ -130,12 +138,12 @@ HTML and CSS
 - [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 - [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 
-## Class 13 ()
+## Class  ()
 - Work on final project
 - Lecture on any topics that need to be clarified
 - Example repos for employees/tasks (using Hooks instead of class components in the client) will be linked here. We will spend the last two classes going through it. 
 
-## Class 14 ()
+## Class  ()
 - Last day of class
 - Work on final project
 

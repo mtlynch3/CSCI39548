@@ -108,6 +108,10 @@ HTML and CSS
 
 ## Class 14 (7/18)
 - Redux for handling async actions and managing app state
+- [Redux overview](https://redux.js.org/tutorials/fundamentals/part-1-overview)
+- [Redux thunk - handling async actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
+
+## Class 15 (7/23)
 - Intro final project
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 

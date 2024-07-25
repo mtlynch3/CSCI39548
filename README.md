@@ -116,6 +116,15 @@ HTML and CSS
 ### [Final project](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
 ## Class 16 (7/25)
+**React router**
+- Adding client-side routing to our single page applications
+- [In class example](https://github.com/mtlynch3/hello)
+- [Official tutorial](https://reactrouter.com/en/main/start/tutorial)
+
+**More on redux and the final project**
+- [Example component connected to redux store](https://github.com/mtlynch3/final-frontend/blob/main/src/components/containers/AllInstructorsContainer.js)
+- [Example config for redux store](https://github.com/mtlynch3/final-frontend/tree/main/src/store)
+
 ## Class 17 (7/30)
 ## Class 18 (8/1)
 ## Class 19 (8/6)

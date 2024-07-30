@@ -126,6 +126,10 @@ HTML and CSS
 - [Example config for redux store](https://github.com/mtlynch3/final-frontend/tree/main/src/store)
 
 ## Class 17 (7/30)
+
+-[Setting up repos](https://docs.google.com/document/d/1QxMNVSQsQroyICsdCYUe0cfuR3Js4Pm8sXvVCFE7Bvw/edit?usp=sharing)
+
+
 ## Class 18 (8/1)
 ## Class 19 (8/6)
 ## Class 20 (8/8)

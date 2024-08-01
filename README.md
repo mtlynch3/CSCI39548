@@ -129,8 +129,17 @@ HTML and CSS
 **Final Project setup**
 - [Setting up repos](https://docs.google.com/document/d/1QxMNVSQsQroyICsdCYUe0cfuR3Js4Pm8sXvVCFE7Bvw/edit?usp=sharing)
 
-
 ## Class 18 (8/1)
+### Final Project setup
+**FRONTEND**
+- [New starter code](https://github.com/mtlynch3/final-frontend-su24)
+- [Legacy starter code](https://github.com/mtlynch3/final-frontend)
+
+**BACKEND**
+- [Instructors/Courses server](https://github.com/mtlynch3/final-backend)
+- [Employees/Tasks server](https://github.com/mtlynch3/final-backend-su24)
+
+  
 ## Class 19 (8/6)
 ## Class 20 (8/8)
 ## Class 21 (8/13)

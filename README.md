@@ -139,34 +139,14 @@ HTML and CSS
 - [Instructors/Courses server](https://github.com/mtlynch3/final-backend)
 - [Employees/Tasks server](https://github.com/mtlynch3/final-backend-su24)
 
-  
 ## Class 19 (8/6)
+- [Download PostgreSQL](https://www.postgresql.org/download/)
+- [Download Postman](https://www.postman.com/downloads/)
+- Running your server locally
+- Making requests to the local server via Postman and Redux thunks
+
 ## Class 20 (8/8)
 ## Class 21 (8/13)
-## Class 21 (8/15)
-
-
-- Building out our own API using Express
-- Performing database CRUD operations using Sequelize/Postgres
-- REST API [slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view)
-- Databases and ORMs [slides](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view)
-- Download [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
-- Example repos: [frontend](https://github.com/mtlynch3/final-frontend) [backend](https://github.com/mtlynch3/final-backend)
-
-
-*Supplemental materials:*
-- [Sequelize documentation](https://sequelize.org/master/)
-- [Tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
-- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
-- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
-
-## Class  ()
-- Work on final project
-- Lecture on any topics that need to be clarified
-- Example repos for employees/tasks (using Hooks instead of class components in the client) will be linked here. We will spend the last two classes going through it. 
-
-## Class  ()
-- Last day of class
-- Work on final project
+## Class 22 (8/15)
 
 

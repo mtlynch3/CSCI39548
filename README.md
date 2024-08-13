@@ -146,7 +146,12 @@ HTML and CSS
 - Making requests to the local server via Postman and Redux thunks
 
 ## Class 20 (8/8)
+- Review deleting a task 
+
 ## Class 21 (8/13)
+- Review adding a new task 
+
 ## Class 22 (8/15)
+- Review editing a task
 
 
